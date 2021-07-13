@@ -1,0 +1,13 @@
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.exe
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.deps.json
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.runtimeconfig.json
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.runtimeconfig.dev.json
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.csproj.AssemblyReference.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.AssemblyInfoInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.AssemblyInfo.cs
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.genruntimeconfig.cache

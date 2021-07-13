@@ -1,0 +1,13 @@
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.exe
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.deps.json
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.runtimeconfig.json
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.runtimeconfig.dev.json
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\bin\Debug\netcoreapp3.1\Fibonacci Series.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.csproj.AssemblyReference.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.AssemblyInfoInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.AssemblyInfo.cs
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Fibonacci Series\obj\Debug\netcoreapp3.1\Fibonacci Series.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.exe
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.deps.json
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.json
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.dev.json
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csproj.AssemblyReference.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfoInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfo.cs
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.genruntimeconfig.cache

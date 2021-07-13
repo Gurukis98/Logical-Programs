@@ -1,0 +1,13 @@
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.exe
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.deps.json
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.runtimeconfig.json
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.runtimeconfig.dev.json
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\bin\Debug\netcoreapp3.1\Coupon Numbers.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.csproj.AssemblyReference.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.AssemblyInfoInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.AssemblyInfo.cs
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Coupon Numbers\obj\Debug\netcoreapp3.1\Coupon Numbers.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical Programs", "Logical Programs\Logical Programs.csproj", "{858DF8EC-201B-446D-B090-A726A04D5AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Series", "Fibonacci Series\Fibonacci Series.csproj", "{62BDCC51-1A14-43BA-924C-F9AA4BB5024F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect Number", "Perfect Number\Perfect Number.csproj", "{9B2948C6-DA60-4E19-AE6F-1E71FC17BE1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Number", "Prime Number\Prime Number.csproj", "{BD75A8D6-CA91-41AF-8B56-1A05FAD1BE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a Number", "Reverse a Number\Reverse a Number.csproj", "{BF0B9FDB-B79A-4634-8F4C-3C4E515B5602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupon Numbers", "Coupon Numbers\Coupon Numbers.csproj", "{799CFD1A-2035-44C1-B0D9-833F1F8B9571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulate Stopwatch", "Simulate Stopwatch\Simulate Stopwatch.csproj", "{31276CF9-ABA2-4E36-8CD7-DA43D4AD7138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858DF8EC-201B-446D-B090-A726A04D5AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858DF8EC-201B-446D-B090-A726A04D5AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858DF8EC-201B-446D-B090-A726A04D5AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858DF8EC-201B-446D-B090-A726A04D5AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BDCC51-1A14-43BA-924C-F9AA4BB5024F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BDCC51-1A14-43BA-924C-F9AA4BB5024F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BDCC51-1A14-43BA-924C-F9AA4BB5024F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BDCC51-1A14-43BA-924C-F9AA4BB5024F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2948C6-DA60-4E19-AE6F-1E71FC17BE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2948C6-DA60-4E19-AE6F-1E71FC17BE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2948C6-DA60-4E19-AE6F-1E71FC17BE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2948C6-DA60-4E19-AE6F-1E71FC17BE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD75A8D6-CA91-41AF-8B56-1A05FAD1BE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD75A8D6-CA91-41AF-8B56-1A05FAD1BE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD75A8D6-CA91-41AF-8B56-1A05FAD1BE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD75A8D6-CA91-41AF-8B56-1A05FAD1BE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0B9FDB-B79A-4634-8F4C-3C4E515B5602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0B9FDB-B79A-4634-8F4C-3C4E515B5602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0B9FDB-B79A-4634-8F4C-3C4E515B5602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0B9FDB-B79A-4634-8F4C-3C4E515B5602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799CFD1A-2035-44C1-B0D9-833F1F8B9571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799CFD1A-2035-44C1-B0D9-833F1F8B9571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799CFD1A-2035-44C1-B0D9-833F1F8B9571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799CFD1A-2035-44C1-B0D9-833F1F8B9571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31276CF9-ABA2-4E36-8CD7-DA43D4AD7138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31276CF9-ABA2-4E36-8CD7-DA43D4AD7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31276CF9-ABA2-4E36-8CD7-DA43D4AD7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31276CF9-ABA2-4E36-8CD7-DA43D4AD7138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA50AAF4-6F50-401D-927A-A40790EB3FEF}
+	EndGlobalSection
+EndGlobal

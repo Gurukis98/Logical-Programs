@@ -1,0 +1,13 @@
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.exe
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.deps.json
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.runtimeconfig.json
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.runtimeconfig.dev.json
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\bin\Debug\netcoreapp3.1\Simulate Stopwatch.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.csproj.AssemblyReference.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.AssemblyInfoInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.AssemblyInfo.cs
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.dll
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.pdb
+C:\Users\kisho\Logical Programs\Logical Programs\Simulate Stopwatch\obj\Debug\netcoreapp3.1\Simulate Stopwatch.genruntimeconfig.cache
