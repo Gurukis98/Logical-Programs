@@ -16,7 +16,7 @@ namespace Coupon_Numbers
             }
 
             var finalString = new String(stringChars);
-            Console.WriteLine("Coupon Number : " + finalString);
+            Console.WriteLine("Coupon Number: " + finalString);
         }
     }
 }
