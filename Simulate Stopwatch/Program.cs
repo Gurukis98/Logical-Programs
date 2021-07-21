@@ -17,7 +17,7 @@ namespace Simulate_Stopwatch
 
 			watch.Stop();
 
-			Console.WriteLine("Time elapsed: " + watch.Elapsed);
+			Console.WriteLine("Time elapsed : " + watch.Elapsed);
         }
     }
 }
