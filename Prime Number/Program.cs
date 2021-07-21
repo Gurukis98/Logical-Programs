@@ -17,7 +17,7 @@ namespace Prime_Number
             {
                 if (n % i == 0)
                 {
-                    Console.WriteLine("Number is not Prime.");
+                    Console.WriteLine("Number is not Prime ");
                     o = 1;
                     break;
                 }
