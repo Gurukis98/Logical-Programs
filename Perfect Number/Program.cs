@@ -28,7 +28,7 @@ namespace Perfect_Number
             }
             else 
             { 
-                Console.WriteLine("The Number is Not Perfect ");
+                Console.WriteLine("The Number is Not Perfect. ");
             }
         }
     }
