@@ -9,7 +9,7 @@ namespace Reverse_a_Number
             int n;
             int reverse = 0;
             int rem;
-            Console.WriteLine("Enter a number: ");
+            Console.WriteLine("Enter a number : ");
             n = int.Parse(Console.ReadLine());
             while (n != 0)
             {
