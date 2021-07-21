@@ -11,7 +11,7 @@ namespace Fibonacci_Series
             int n3;
             int i;
             int num;
-            Console.WriteLine("Enter the Fibonacci Series: ");
+            Console.WriteLine("Enter the Fibonacci Series : ");
             num = int.Parse(Console.ReadLine());
             Console.Write(n1 + " " + n2 + " ");
             for (i = 2; i < num; ++i)
